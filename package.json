@@ -1,0 +1,16 @@
+{
+  "name": "medusa-fulfillment-iran-post",
+  "version": "1.0.0",
+  "description": "Iran Post Fulfillment Provider for Medusa v2",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@medusajs/framework": "^2.16.0",
+    "@medusajs/medusa": "^2.16.0",
+    "@types/node": "^26.0.0",
+    "typescript": "^5.9.3"
+  }
+}
